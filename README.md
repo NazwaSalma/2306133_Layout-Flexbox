@@ -128,5 +128,5 @@ Beberapa produk yang ditampilkan dalam aplikasi:
 Jalankan aplikasi
 flutter run
 ```
-## Tujuan Project
-Project ini dibuat untuk mempelajari beberapa konsep dasar dalam pengembangan aplikasi menggunakan Flutter, yaitu memahami layout Flexbox pada Flutter, penggunaan widget Row dan Column untuk mengatur tata letak, menampilkan produk dalam bentuk grid, serta membuat tampilan antarmuka (UI) sederhana seperti pada aplikasi e-commerce.
+Tujuan Project
+Project ini dibuat untuk mempelajari konsep dasar pembuatan tampilan aplikasi menggunakan Flutter. Dalam project ini dipelajari bagaimana menggunakan layout Flexbox pada Flutter, memahami penggunaan widget Row dan Column untuk mengatur tata letak, menampilkan daftar produk dalam bentuk grid, serta membuat tampilan antarmuka sederhana yang menyerupai aplikasi e-commerce.
