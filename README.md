@@ -125,31 +125,9 @@ Beberapa produk yang ditampilkan dalam aplikasi:
   * ElevatedButton
 
 ## 🚀 Cara Menjalankan Project
-
-1. Clone repository
-
-```bash
-git clone https://github.com/username/flexbox-flutter.git
-```
-
-2. Masuk ke folder project
-
-```bash
-cd flexbox-flutter
-```
-
-3. Install dependencies
-
-```bash
-flutter pub get
-```
-
-4. Jalankan aplikasi
-
-```bash
+Jalankan aplikasi
 flutter run
 ```
-
 ## 📌 Tujuan Project
 
 Project ini dibuat untuk mempelajari:
