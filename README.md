@@ -130,8 +130,8 @@ flutter run
 ```
 ## 📌 Tujuan Project
 Project ini dibuat untuk mempelajari:
-1. Layout **Flexbox pada Flutter**
-2. Penggunaan **Row dan Column**
-3. Menampilkan **Grid produk**
-4. Membuat **UI sederhana aplikasi e-commerce**
+1. Layout Flexbox pada Flutter
+2. Penggunaan Row dan Column
+3. Menampilkan Grid produk
+4. Membuat UI sederhana aplikasi e-commerce
 
