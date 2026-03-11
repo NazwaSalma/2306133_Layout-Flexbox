@@ -1,6 +1,10 @@
 # pertemuan3_2306133
 # Flexbox Flutter 🛍️
 
+![Foto1](https://github.com/user-attachments/assets/3c649001-716f-4e99-bdbb-5d4547b82a3a)
+![Foto2](https://github.com/user-attachments/assets/36c4bb7c-6153-4f04-a30b-340f392401ce)
+![Foto3](https://github.com/user-attachments/assets/2a82032e-5eed-4b04-aa3c-7f9cfaf5b51b)
+
 Aplikasi sederhana berbasis **Flutter** yang menampilkan tampilan katalog produk menggunakan konsep **Flexbox / layout Flutter** seperti `Row`, `Column`, dan `Grid`.
 Aplikasi ini menampilkan beberapa produk fashion seperti sepatu, kaos, celana, topi, dan jaket dengan tampilan card.
 
